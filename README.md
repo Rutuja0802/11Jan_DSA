@@ -1,2 +1,2 @@
 # 11Jan_DSA
-Find Kth element in linked list
+Find Nth element in linked list
